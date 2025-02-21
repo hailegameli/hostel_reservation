@@ -33,7 +33,6 @@ app.post('/reserve', async (req, res) => {
   const {
     StudentName,
     FatherName,
-    email,
     phoneNumber,
     Branch,
     Year,
